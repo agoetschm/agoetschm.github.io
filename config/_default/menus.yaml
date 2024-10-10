@@ -10,6 +10,6 @@ main:
   - name: Research
     url: /#research
     weight: 11
-  - name: Development
+  - name: Experience
     url: /#dev
     weight: 12
