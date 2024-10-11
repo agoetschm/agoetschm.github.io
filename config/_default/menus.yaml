@@ -8,8 +8,11 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: /#research
+    url: /#publications
     weight: 11
   - name: Experience
-    url: /#dev
+    url: /#experience
     weight: 12
+  - name: Blog
+    url: /blog/
+    weight: 13

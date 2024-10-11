@@ -34,7 +34,7 @@ sections:
         color: Linen
     
   - block: collection
-    id: research
+    id: publications
     content:
       title: 'Research'
       text: ""
@@ -46,7 +46,7 @@ sections:
       view: citation
 
   - block: resume-experience
-    id: dev
+    id: experience
     content:
       username: admin
     design:

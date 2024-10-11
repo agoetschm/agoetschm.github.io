@@ -49,7 +49,17 @@ markup:
   _merge: deep
   highlight:
     lineNos: false
+  # asciidocExt:
+  #   attributes:
+  #     # my-attribute-name: my value
+  #     my-base-url: https://example.com/
+  #   extensions:
+  #   - asciidoctor-html5s
+  #   - asciidoctor-diagram
+  #   workingFolderCurrent: true
 security:
   _merge: deep
+  # exec:
+  #   allow: ["^dart-sass-embedded$", "^go$", "^npx$", "^postcss$", "^asciidoctor$"]
 sitemap:
   _merge: deep
