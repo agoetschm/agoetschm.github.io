@@ -55,7 +55,7 @@ url_code: 'https://gitlab.inria.fr/oideli/oideli-artifact'
 # url_project: ''
 url_slides: 'https://www.usenix.net/system/files/usenixsecurity24_slides-cortier.pdf'
 # url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_video: 'https://youtube.com'
+url_video: 'https://www.youtube.com/watch?v=I28OLG7WlSI'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
